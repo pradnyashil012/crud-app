@@ -1,0 +1,40 @@
+{
+  "business": [
+    {
+      "id": 1,
+      "name": "Cricket",
+      "sorting": "Recommended",
+      "followers": "350Cr"
+    },
+    {
+      "id": 2,
+      "name": "Hockey",
+      "sorting": "Trending",
+      "followers": "50Cr"
+    },
+    {
+      "id": 3,
+      "name": "Wresteling",
+      "sorting": "Featured",
+      "followers": "100Cr"
+    },
+    {
+      "id": 4,
+      "name": "PUBG",
+      "sorting": "Newest",
+      "followers": "50Cr"
+    },
+    {
+      "name": "Football",
+      "sorting": "Featured",
+      "followers": "400Cr",
+      "id": 5
+    },
+    {
+      "name": "Sepak",
+      "sorting": "Newest",
+      "followers": "10Cr",
+      "id": 6
+    }
+  ]
+}
